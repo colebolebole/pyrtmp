@@ -11,4 +11,4 @@ enjoy
 
 # players using the pyrtmp source code
 
-Utunes: https://utunes.colebolebole.tk/files/utunesplayer.py
+Utunes: https://github.com/colebolebole/utunesplayer/releases/download/release/utunesplayer.py
